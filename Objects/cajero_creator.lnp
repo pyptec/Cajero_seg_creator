@@ -1,0 +1,8 @@
+".\Objects\Creator.obj",
+".\hex\CRT_288.obj",
+".\hex\debug.obj",
+".\hex\lector.obj",
+".\hex\ptoprlelo.obj",
+".\hex\uart.obj" 
+TO ".\Objects\cajero_creator" 
+PRINT(".\Listings\cajero_creator.m51") RAMSIZE(256) 
